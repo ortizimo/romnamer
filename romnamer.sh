@@ -1,5 +1,5 @@
 #!/bin/bash
-# author: Sal
+# author: ortizimo
 # date: 20250720-1249
 # desc: very basic script to remove unwanted words from rom files
 # why: because there is no FileBot program to do this for roms
