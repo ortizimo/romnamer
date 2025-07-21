@@ -1,6 +1,6 @@
 # romnamer
 ******************
-* ROMNAMER  v1.0 *
+ROMNAMER  v1.0
 ******************
 
 WHAT IS IT?
