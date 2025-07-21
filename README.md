@@ -1,4 +1,4 @@
-# romnamer
+# romnamer v1.0
 
 WHAT IS IT?
 Basically my own BASH script to help you delete words in ROM filenames that stop you from scrapping for cover art, videos, etc. Great to correct ROMS for emulation environments like retrodeck or emudeck.
