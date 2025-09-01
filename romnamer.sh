@@ -9,13 +9,11 @@
 # instructions: 
 #	1. Make a list of all the words you want to remove
 #	2. Place this script in home/ 
-#	3. Edit the path below to the roms you need to fix (i.e. nano romnamer)
-#	4. Save the changes and exit
-#	5. Give it execute rights (i.e. chmod +x romnamer)
-#	6. Run it
+#	3. Edit the path below to the roms you need to fix (see DIRECTORY below)
+#	4. Give it executable rights (i.e. chmod +x romnamer)
+#	5. Run it (./romnamer.sh)
 
 clear
-
 echo ""
 echo "██████╗  ██████╗ ███╗   ███╗███╗   ██╗ █████╗ ███╗   ███╗███████╗██████╗ "
 echo "██╔══██╗██╔═══██╗████╗ ████║████╗  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗"
@@ -100,8 +98,6 @@ done
 echo "You can now generate an XML gamelist using Genpal (RetroPie), or the other script I made named listgen"
 echo ""
 echo "File renaming process complete!"
-
-# A simple Bash script to ask the user to continue or exit.
 
 while true; do
     # Read user input with a prompt. The -p option displays a prompt.
