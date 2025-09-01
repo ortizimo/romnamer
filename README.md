@@ -1,7 +1,7 @@
-# romnamer v1.1 (Bulk ROM Renamer) + listgen v1.1 (gamelist generator)
+# romnamer v1.1 (Bulk ROM Renamer) + listgen v1.1 (gamelist generator) Combined!
 
 WHAT IS IT?
-My own BASH script to help delete unwanted words in ROM filenames. Some unwanted words stops the scrapping of cover art, videos, etc. Great to correct ROMS for emulation environments like retrodeck or emudeck. I've combined both of my scripts to be a bit more efficient. I have to do some additional tweaking later on but this will work for now!
+My own BASH script to help delete unwanted words in ROM filenames. Some unwanted words stops the scrapping of cover art, videos, etc. Great to correct ROMS for emulation environments like retrodeck or emudeck. I have to do some additional tweaking later on but this will work for now!
 
 INSTRUCTIONS:
 1. Download the BASH script and drop it in your Linux home directory.
@@ -11,4 +11,4 @@ INSTRUCTIONS:
 5. Enter the exact words you want to remove from all your roms (E.g., PROPER, REPACK, iNJECT).
 6. Generate a clean gamelist.xml file at the end. You can also use Genpal from Retropie if you want to.
 
-You can also run the script to a Windows folder via the Shared Folders if using a Linux VM.
+Note: You can also run the script from a Linux VM out to a Windows folder via the Shared Folders.
