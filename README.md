@@ -6,7 +6,7 @@ My own BASH script to help delete unwanted words in ROM filenames. Some unwanted
 INSTRUCTIONS:
 1. Download the BASH script and drop it in your Linux home directory
 2. Give it executable rights (sudo chmod +x romnamer.sh).
-    - If using a VM, add a 'SHARED FOLDER' to the folder where the ROMS are
+    - If using a VM, then use the 'SHARED FOLDER' option to the folder where the ROMS are located
 4. Make a list of all the words to remove (E.g., PROPER, REPACK, iNJECT)
 5. Run the script (e.g., ./romnamer) and follow the instructions
     - If using from a VM, use the following command (sudo ./romnamer /media/<sf_ROMS>)
